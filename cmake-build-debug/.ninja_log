@@ -19,3 +19,10 @@
 3	172	7359994344476664	CMakeFiles/LibraryManagement.dir/library.c.obj	957b18dd122efe18
 19	190	7359994344717747	CMakeFiles/LibraryManagement.dir/borrow_return.c.obj	4c8a45ac33f964d6
 191	319	7359994345935062	LibraryManagement.exe	24c78a639639a4d5
+39	1881	7360132348734153	CMakeFiles/LibraryManagement.dir/borrow_return.c.obj	4c8a45ac33f964d6
+65	1883	7360132348421604	CMakeFiles/LibraryManagement.dir/book.c.obj	6c4da36cd871e046
+49	1890	7360132349046618	CMakeFiles/LibraryManagement.dir/statistics.c.obj	8cdf61084368b781
+16	1932	7360132349671586	CMakeFiles/LibraryManagement.dir/reader.c.obj	93b2ea3f0a8e273b
+27	2038	7360132351230212	CMakeFiles/LibraryManagement.dir/main.c.obj	181fff26f01362af
+6	2055	7360132351344285	CMakeFiles/LibraryManagement.dir/library.c.obj	957b18dd122efe18
+2056	2816	7360132358804576	LibraryManagement.exe	24c78a639639a4d5

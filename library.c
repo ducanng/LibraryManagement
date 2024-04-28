@@ -53,15 +53,15 @@ void bookManagement() {
     int choice;
 
     do {
-        printf("\n### Quản lý Sách ###\n");
-        printf("1. Xem danh sách sách\n");
-        printf("2. Thêm sách mới\n");
-        printf("3. Chỉnh sửa thông tin sách\n");
-        printf("4. Xóa sách\n");
-        printf("5. Tìm kiếm sách theo ISBN\n");
-        printf("6. Tìm kiếm sách theo tiêu đề\n");
-        printf("0. Trở về menu chính\n");
-        printf("Nhập lựa chọn của bạn: ");
+        printf("\n### Quan ly Sach ###\n");
+        printf("1. Xem danh sach sach\n");
+        printf("2. Them sach moi\n");
+        printf("3. Chinh sua thong tin sach\n");
+        printf("4. Xoa sach\n");
+        printf("5. Tim kiem sach theo ISBN\n");
+        printf("6. Tim kiem sach theo tieu de\n");
+        printf("0. Tro ve menu chinh\n");
+        printf("Nhap lua chon cua ban: ");
         scanf("%d", &choice);
 
         switch (choice) {
@@ -84,10 +84,10 @@ void bookManagement() {
                 searchBookByTitle();
                 break;
             case 0:
-                printf("Đang trở về menu chính...\n");
+                printf("Dang tro ve menu chinh...\n");
                 break;
             default:
-                printf("Lựa chọn không hợp lệ! Vui lòng nhập một số từ 0 đến 6.\n");
+                printf("Lua chon khong hop le!\n");
         }
     } while (choice != 0);
 }

@@ -45,7 +45,7 @@ void addReader() {
     printf("Nhap email: ");
     fgets(readerEmail, 100, stdin);
     readerEmail[strcspn(readerEmail, "\n")] = 0;
-    printf("Nhap đia chi: ");
+    printf("Nhap dia chi: ");
     fgets(readerAddress, 100, stdin);
     readerAddress[strcspn(readerAddress, "\n")] = 0;
     printf("Nhap ngay lap the (dd/mm/yyyy): ");
