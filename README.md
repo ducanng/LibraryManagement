@@ -31,16 +31,16 @@ Chương trình có các chức năng sau:
 2. Quản lí sách 
    1. Xem danh sách các sách trong thư viện 
    2. Thêm sách 
-  3. Chỉnh sửa thông tin một quyển sách 
-  4. Xóa thông tin sách 
-  5. Tìm kiếm sách theo ISBN 
-  6. Tìm kiếm sách theo tên sách 
+   3. Chỉnh sửa thông tin một quyển sách 
+   4. Xóa thông tin sách 
+   5. Tìm kiếm sách theo ISBN 
+   6. Tìm kiếm sách theo tên sách     
 3. Lập phiếu mượn sách 
 4. Lập phiếu trả sách 
 5. Các thống kê cơ bản
-  1. Thống kê số lượng sách trong thư viện 
-  2. Thống kê số lượng sách theo thể loại 
-  3. Thống kê số lượng độc giả 
-  4. Thống kê số lượng độc giả theo giới tính 
-  5. Thống kê số sách đang được mượn 
-  6. Thống kê danh sách độc giả bị trễ hạn
+    1. Thống kê số lượng sách trong thư viện 
+    2. Thống kê số lượng sách theo thể loại 
+    3. Thống kê số lượng độc giả 
+    4. Thống kê số lượng độc giả theo giới tính 
+    5. Thống kê số sách đang được mượn 
+    6. Thống kê danh sách độc giả bị trễ hạn
