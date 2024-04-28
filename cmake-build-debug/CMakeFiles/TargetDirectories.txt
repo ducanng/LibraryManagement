@@ -1,0 +1,3 @@
+C:/Users/ducan/CLionProjects/LibraryManagement/cmake-build-debug/CMakeFiles/LibraryManagement.dir
+C:/Users/ducan/CLionProjects/LibraryManagement/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ducan/CLionProjects/LibraryManagement/cmake-build-debug/CMakeFiles/rebuild_cache.dir

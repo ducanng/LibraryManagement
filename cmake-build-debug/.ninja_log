@@ -1,0 +1,21 @@
+# ninja log v5
+40	380	7359980040160504	CMakeFiles/LibraryManagement.dir/statistics.c.obj	8cdf61084368b781
+65	396	7359980040441909	CMakeFiles/LibraryManagement.dir/book.c.obj	6c4da36cd871e046
+29	395	7359980040250804	CMakeFiles/LibraryManagement.dir/library.c.obj	957b18dd122efe18
+56	398	7359980040592967	CMakeFiles/LibraryManagement.dir/borrow_return.c.obj	4c8a45ac33f964d6
+15	397	7359980040602963	CMakeFiles/LibraryManagement.dir/reader.c.obj	93b2ea3f0a8e273b
+1	399	7359980040642961	CMakeFiles/LibraryManagement.dir/main.c.obj	181fff26f01362af
+27	242	7359984206454013	CMakeFiles/LibraryManagement.dir/book.c.obj	6c4da36cd871e046
+20	245	7359984206403002	CMakeFiles/LibraryManagement.dir/main.c.obj	181fff26f01362af
+10	263	7359984206648136	CMakeFiles/LibraryManagement.dir/library.c.obj	957b18dd122efe18
+54	275	7359984206981431	CMakeFiles/LibraryManagement.dir/statistics.c.obj	8cdf61084368b781
+3	275	7359984206981431	CMakeFiles/LibraryManagement.dir/reader.c.obj	93b2ea3f0a8e273b
+35	278	7359984207011461	CMakeFiles/LibraryManagement.dir/borrow_return.c.obj	4c8a45ac33f964d6
+3	105	7359987524305446	CMakeFiles/LibraryManagement.dir/book.c.obj	6c4da36cd871e046
+3	98	7359987833337841	CMakeFiles/LibraryManagement.dir/borrow_return.c.obj	4c8a45ac33f964d6
+3	127	7359988081998212	CMakeFiles/LibraryManagement.dir/reader.c.obj	93b2ea3f0a8e273b
+3	123	7359988524153082	CMakeFiles/LibraryManagement.dir/reader.c.obj	93b2ea3f0a8e273b
+11	163	7359994344405474	CMakeFiles/LibraryManagement.dir/main.c.obj	181fff26f01362af
+3	172	7359994344476664	CMakeFiles/LibraryManagement.dir/library.c.obj	957b18dd122efe18
+19	190	7359994344717747	CMakeFiles/LibraryManagement.dir/borrow_return.c.obj	4c8a45ac33f964d6
+191	319	7359994345935062	LibraryManagement.exe	24c78a639639a4d5
